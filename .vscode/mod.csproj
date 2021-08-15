@@ -5,8 +5,8 @@
 		<PlatformTarget>x64</PlatformTarget>
 
 		<!-- Modify [RootNamespace], [AssemblyName], [OutputPath], [VersionPrefix] -->
-		<RootNamespace>Template</RootNamespace>
-		<AssemblyName>Template</AssemblyName>
+		<RootNamespace>NowanoAllZoomer</RootNamespace>
+		<AssemblyName>AllZoomer</AssemblyName>
 		<OutputPath>../1.3/Assemblies</OutputPath>
 		<VersionPrefix>1.0.0.0</VersionPrefix>
 
@@ -27,8 +27,8 @@
 		</Reference>
 
 		<!-- Harmony -->
-		<!-- <Reference Include="../../Harmony/v1.1/Assemblies/0Harmony.dll">
+		    <Reference Include="D:/Steam/steamapps/workshop/content/294100/2009463077/Current/Assemblies/0Harmony.dll">
 			<Private>False</Private>
-		</Reference> -->
+		</Reference> 
 	</ItemGroup>
 </Project>
